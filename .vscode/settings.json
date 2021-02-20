@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.jsxBracketSameLine": true,
+  "material-icon-theme.files.associations": {},
+  "json.schemas": [],
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*ts": "typescriptreact"
+  },
+  "terminal.integrated.rendererType": "dom",
+  "files.autoSave": "onFocusChange"
+}
